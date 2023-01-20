@@ -1,5 +1,4 @@
 # Plan comptable formattée (version 2023)
-===
 
 Le plan comptable complet en **format JSON**.
 
