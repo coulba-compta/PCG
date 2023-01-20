@@ -5,7 +5,7 @@ La version est conforme à l'édition du 1er janvier 2023.
 
 
 Le document prend la forme suivante: 
-```
+```json
 [
   {
     "number": 1, // numéro de la classe
