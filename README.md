@@ -1,4 +1,4 @@
-# Plan comptable formaté (version 2023)
+# Plan comptable français formaté (version 2023)
 
 Le plan comptable complet en **format JSON**.
 
