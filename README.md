@@ -1,8 +1,9 @@
-# plan-comptable-JSON
-Le plan comptable complet conforme au RÈGLEMENT ANC N° 2014-03
+# Plan comptable formattée (version 2023)
+===
 
-La version est conforme à l'édition du 1er janvier 2023.
+Le plan comptable complet en **format JSON**.
 
+La version est conforme à l'édition du **1er janvier 2023** du **RÈGLEMENT ANC N° 2014-03**.
 
 Le document prend la forme suivante: 
 ```js
