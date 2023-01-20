@@ -15,7 +15,7 @@ Le document prend la forme suivante:
         "number": 21, // numéro du compte
         "label": "Capital et réserves", // nom du compte
         "accounts": [
-          // les sous-comptes 21X, eux-mêmes ayant des sous-comptes selon la même structure
+          // les sous-comptes 21X, eux-mêmes ayant des sous-comptes suivant la même structure
           ...
         ]
       },
