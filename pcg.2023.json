@@ -214,7 +214,7 @@
                         "number": 119,
                         "label": "Report à nouveau (solde débiteur)",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -230,7 +230,7 @@
                         "number": 129,
                         "label": "Résultat de l'exercice (perte)",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -407,7 +407,7 @@
                         "number": 148,
                         "label": "Autres provisions réglementées",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -705,7 +705,7 @@
                         "number": 188,
                         "label": "Comptes de liaison des sociétés en participation",
                         "accounts": []
-                    },
+                    }
                 ]
             }
         ]
@@ -897,7 +897,6 @@
                                     }
                                 ]
                             },
-                            ,
                             {
                                 "number": 2135,
                                 "label": "Installations générales - agencements - aménagements des constructions",
@@ -1377,7 +1376,7 @@
                         "number": 279,
                         "label": "Versements restant à effectuer sur titres immobilisés non libérés",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -1462,7 +1461,7 @@
                         "number": 282,
                         "label": "Amortissements des immobilisations mises en concession",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -1632,7 +1631,7 @@
                         "number": 317,
                         "label": "Fournitures A, B, C, ...",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -1862,7 +1861,7 @@
                         "number": 372,
                         "label": "Marchandises (ou groupe) B",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -1981,7 +1980,7 @@
                         ]
                     }
                 ]
-            },
+            }
         ]
     },
     {
@@ -2515,7 +2514,7 @@
                         "number": 449,
                         "label": "Quotas d'émission à acquérir",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -2818,7 +2817,6 @@
                             }
                         ]
                     },
-                    ,
                     {
                         "number": 486,
                         "label": "Charges constatées d'avance",
@@ -2910,7 +2908,7 @@
                         ]
                     }
                 ]
-            },
+            }
         ]
     },
     {
@@ -3014,7 +3012,7 @@
                         "number": 509,
                         "label": "Versements restant à effectuer sur valeurs mobilières de placement non libérées",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -3145,7 +3143,7 @@
                         "number": 524,
                         "label": "Jetons empruntés",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -3177,7 +3175,7 @@
                         "number": 533,
                         "label": "Caisse succursale (ou usine) B",
                         "accounts": []
-                    },
+                    }
                 ]
             },
             {
@@ -3227,7 +3225,7 @@
                         ]
                     }
                 ]
-            },
+            }
         ]
     },
     {
@@ -3353,7 +3351,7 @@
                                 "accounts": []
                             }
                         ]
-                    }
+                    },
                     {
                         "number": 604,
                         "label": "Achats d'études et prestations de services",
@@ -3390,7 +3388,6 @@
                             }
                         ]
                     },
-                    ,
                     {
                         "number": 607,
                         "label": "Achats de marchandises",
@@ -3562,7 +3559,6 @@
                                     }
                                 ]
                             },
-                            ,
                             {
                                 "number": 6164,
                                 "label": "Risques d'exploitation",
@@ -3715,7 +3711,6 @@
                             }
                         ]
                     },
-                    ,
                     {
                         "number": 624,
                         "label": "Transports de biens et transports collectifs du personnel",
@@ -3938,7 +3933,6 @@
                                     }
                                 ]
                             },
-                            ,
                             {
                                 "number": 6352,
                                 "label": "Taxe sur le chiffre d'affaires non récupérables",
@@ -4066,7 +4060,6 @@
                             }
                         ]
                     },
-                    ,
                     {
                         "number": 646,
                         "label": "Cotisations sociales personnelles de l'exploitant",
