@@ -14,10 +14,10 @@ Le document prend la forme suivante:
     "label": "Capitaux", // nom de la classe
     "accounts": [ // liste des comptes de la classe
       {
-        "number": 21, // numéro du compte
+        "number": 10, // numéro du compte
         "label": "Capital et réserves", // nom du compte
         "accounts": [
-          // les sous-comptes 21X, eux-mêmes ayant des sous-comptes suivant la même structure
+          // les sous-comptes 10X, eux-mêmes ayant leurs sous-comptes suivant la même structure
           ...
         ]
       },
