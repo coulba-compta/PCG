@@ -6,7 +6,7 @@ La version est conforme à l'édition du **1er janvier 2023** du **RÈGLEMENT AN
 
 <br />
 
-Le document prend la forme suivante: 
+Le document prend la forme suivante (*deeply nested*): 
 ```js
 [
   {
