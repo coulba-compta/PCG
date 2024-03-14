@@ -1866,7 +1866,7 @@
             },
             {
                 "number": 38,
-                "label": "(lorsque l'entité tient un inventaire permanent en comptabilité générale, le compte 38 peut être utilisé pour comptabiliser les stocks en voie d'acheminement, mis en dépôt ou donnés en consignation)",
+                "label": "Stocks en voie d'acheminement, mis en dépôt ou donnés en consignation",
                 "accounts": []
             },
             {
