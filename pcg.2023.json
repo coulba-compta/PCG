@@ -5282,7 +5282,8 @@
                     },
                     {
                         "number": 797,
-                        "label": "Transferts de charges exceptionnelles"
+                        "label": "Transferts de charges exceptionnelles",
+                        "accounts": []
                     }
                 ]
             }
