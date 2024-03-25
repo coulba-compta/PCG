@@ -1,9 +1,9 @@
-# Plan comptable français (JSON)
+# Plan comptable général (JSON)
 
 ## Informations
 Le plan des comptes complet au format **JSON**.
 
-Les données sont répliquées depuis le Plan Comptable Général (PCG) émis chaque année par l'[Autorité des Normes Comptables](https://www.anc.gouv.fr/sites/anc/accueil.html) (ANC).
+Les données sont répliquées depuis le Plan Comptable Général (PCG) français émis chaque année par l'[Autorité des Normes Comptables](https://www.anc.gouv.fr/sites/anc/accueil.html) (ANC).
 
 
 ## Sources
