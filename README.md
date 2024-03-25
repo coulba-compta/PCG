@@ -1,7 +1,7 @@
-# Plan comptable français formaté
+# Plan comptable français (JSON)
 
 ## Informations
-Le plan des comptes complet en **format JSON**.
+Le plan des comptes complet au format **JSON**.
 
 Les données sont répliquées depuis le Plan Comptable Général (PCG) émis chaque année par l'[Autorité des Normes Comptables](https://www.anc.gouv.fr/sites/anc/accueil.html) (ANC).
 
@@ -14,7 +14,7 @@ Les données sont répliquées depuis le Plan Comptable Général (PCG) émis ch
 
 
 ## Structure
-Les différentes versions sont à retrouver dans le dossier *versions* et chacune prend la forme suivante:
+Les différentes versions sont à retrouver dans le dossier *versions*. Chaque fichier **JSON** prend la forme d'une liste d'élements dont la structure est la suivante :
 | Clé        | Type                             | Description                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `number`   | `int`                            | Le numéro du compte.                                                                                                                                                                                                                                                                                                                                                           |
