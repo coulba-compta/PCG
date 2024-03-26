@@ -1,4 +1,4 @@
-# Plan comptable général (JSON)
+# Plan Comptable Général (JSON)
 
 ## Informations
 Le plan des comptes complet au format **JSON**.
