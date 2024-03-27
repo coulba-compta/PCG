@@ -14,7 +14,7 @@ Les données sont répliquées depuis le Plan Comptable Général (PCG) françai
 
 
 ## Structure
-Les différentes versions sont à retrouver dans le dossier *versions*. Chaque fichier **JSON** prend la forme d'une liste d'élements dont la structure est la suivante :
+Les différentes versions sont à retrouver dans le dossier [*versions*](versions). Chaque fichier **JSON** prend la forme d'une liste d'élements dont la structure est la suivante :
 | Clé        | Type                                 | Description                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `number`   | `int`                                | Le numéro du compte.                                                                                                                                                                                                                                                                                                                                                           |
